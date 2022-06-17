@@ -37,7 +37,7 @@
         <commons-lang3.version>3.7</commons-lang3.version>
         <javax-inject.version>1</javax-inject.version>
         <lombok.version>1.18.2</lombok.version>
-        <fastjson.version>1.2.49</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <json.version>20180130</json.version>
         <alipay.version>3.3.4.ALL</alipay.version>
         <protobuf-java.version>2.5.0</protobuf-java.version>
