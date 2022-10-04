@@ -40,7 +40,7 @@
         <fastjson.version>1.2.49</fastjson.version>
         <json.version>20180130</json.version>
         <alipay.version>3.3.4.ALL</alipay.version>
-        <protobuf-java.version>2.5.0</protobuf-java.version>
+        <protobuf-java.version>3.16.3</protobuf-java.version>
         <aliyun-log-logback.version>0.1.12</aliyun-log-logback.version>
     </properties>
 
